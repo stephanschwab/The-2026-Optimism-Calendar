@@ -1,5 +1,5 @@
 # The-2026-Optimism-Calendar
-📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.  
+📌 **This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.** 
 
 The 2026 Optimism Calendar 📅 — Free public good in Optimism style.   Part of my RetroPGF contribution. By @stephan1516417
 
@@ -14,7 +14,7 @@ Released under CC BY 4.0 license, open and available for everyone.
 👉 [View & download the calendar (GitHub Pages)](https://stephanschwab.github.io/The-2026-Optimism-Calendar/)
 
 ## 🌍 BuildForGood Ecosystem  
-This project is part of the BuildForGood Ecosystem for Optimism.  
+**This project is part of the BuildForGood Ecosystem for Optimism.**  
 
 📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
 
