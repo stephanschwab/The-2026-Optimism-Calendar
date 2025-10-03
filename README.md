@@ -12,3 +12,11 @@ The calendar is part of my broader RetroPGF contribution — alongside books, NF
 Released under CC BY 4.0 license, open and available for everyone.
 
 👉 [View & download the calendar (GitHub Pages)](https://stephanschwab.github.io/The-2026-Optimism-Calendar/)
+
+## 🌍 BuildForGood Ecosystem  
+This project is part of the BuildForGood Ecosystem for Optimism.  
+
+📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
+
+🔗 Explore the full ecosystem: [BuildForGood Ecosystem on Optimism Atlas](https://atlas.optimism.io/profile/organizations/BuildForGood%20Ecosystem)
+---
