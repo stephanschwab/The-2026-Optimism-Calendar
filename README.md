@@ -18,5 +18,5 @@ Released under CC BY 4.0 license, open and available for everyone.
 
 📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
 
-🔗 Explore the full ecosystem: [BuildForGood Ecosystem on Optimism Atlas](https://atlas.optimism.io/profile/organizations/BuildForGood%20Ecosystem)
+🔗 Explore the full ecosystem: [BuildForGood Ecosystem on Optimism Atlas](https://atlas.optimism.io/0xd349d01ca7247e321116767150902eb478c8d9d7b86b51cb9abc81c579fe39d5)
 ---
